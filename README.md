@@ -17,6 +17,8 @@ ParrotPeater allows you to turn a single handheld amateur radio transceiver into
 To run this applicaton, you are have a working Python IDE instealled, along with the libraries NumPy and sounddevice. 
 You will also need an APRS cable to connect your radio to your computer's sound card (APRS-K1 if you are using a Baofeng UV 17 Pro).
 
+QUICK DEMONSTRATION (video): https://drive.google.com/file/d/1TmtDIhJIyx5-4ljhzfINe1OYly3Yv8nu/view?usp=share_link
+
 INSTRUCTIONS 
 
 # Default configurtion values are suitable for running ParrotPeater with the following hardware and software setup:
@@ -77,11 +79,12 @@ In following these instructions, it is assumed that you have configured all of y
 
 # Running ParrotPeater:
 
-1. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE running ParrotPeater.
-2. Go to your settings and make sure that the microphone port is selected as audio input device and that it is at maximum volume.
-3. Also, make sure that the headphone port is selected as audio output device and that it is at maximum volume as well.
-4. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. You should be seeing a yellow/orange microphone icon in the menu bar at all times. 
-5. Start ParrotPeater and select your computer's audio i/o devices that will be interacting with the repeater radio.
+1. Adjust the settings on your computer so that it stays awake during ParrotPeater's operation.
+2. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE running ParrotPeater.
+3. Go to your settings and make sure that the microphone port is selected as audio input device and that it is at maximum volume.
+4. Also, make sure that the headphone port is selected as audio output device and that it is at maximum volume as well.
+5. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. If you are using a mac, you should be seeing a yellow/orange microphone icon in the menu bar at all times. 
+6. Start ParrotPeater and select your computer's audio i/o devices that will be interacting with the repeater radio.
    In the case of an M1 Macbook Air (2020), those devices will usually be:
    
        0 External Microphone, Core Audio (1 in, 0 out)
