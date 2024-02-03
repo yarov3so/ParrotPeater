@@ -78,7 +78,7 @@ In following these instructions, it is assumed that you have configured all of y
 1. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE running ParrotPeater.
 2. Go to your settings and make sure that the microphone port is selected as audio input device and that it is at maximum volume.
 3. Also, make sure that the headphone port is selected as audio output device and that it is at maximum volume as well.
-4. If you run into the problem of ParrotPeater cuing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. You should be seeing a yellow/orange microphone icon in the menu bar at all times. 
+4. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. You should be seeing a yellow/orange microphone icon in the menu bar at all times. 
 5. Start ParrotPeater and select your computer's audio i/o devices that will be interacting with the repeater radio.
    In the case of an M1 Macbook Air (2020), those devices will usually be:
          0 External Microphone, Core Audio (1 in, 0 out)
@@ -99,4 +99,4 @@ As such, each person using a distant radio will need to be switching between the
 5. When the green light goes out, press the blue button to switch back to the top active channel as you await a reply.
 6. Bear in mind that there will be a significant delay before you hear a reply, as ParrotPeater cannot receive and transmit simultaneously.
 7. Once a reply is heard, repeat steps 2 through 5 to transmit again. 
-8. PRACTICE, PRACTICE, PRATICE! Switching between the two active frequencies correctly will take some getting used to, but I am sure you will become a master Parroteer in no time.^^
+8. PRACTICE, PRACTICE, PRATICE! Switching between the two active frequencies correctly will take some getting used to, but I am sure you will become a master Parroteer in no time. ^^
