@@ -14,7 +14,7 @@
                 '            
 
 ParrotPeater allows you to turn a single handheld amateur radio transceiver into a repeater. 
-To run this applicaton, you are have a working Python IDE instealled, along with the libraries NumPy and sounddevice. 
+To run this applicaton, you need to have a working Python IDE instealled, along with the libraries NumPy and sounddevice. 
 You will also need an APRS cable to connect your radio to your computer's sound card (APRS-K1 if you are using a Baofeng UV 17 Pro).
 
 QUICK DEMONSTRATION (video): https://drive.google.com/file/d/1TmtDIhJIyx5-4ljhzfINe1OYly3Yv8nu/view?usp=share_link
@@ -33,7 +33,7 @@ MACOS USERS: you will most likely need to apply the ttcplus wrapper hotfix (by g
 
 *** The following configurations are primarily suited for Baofeng UV 17 Pro HTs, but can be readily generalized to other devices with similar features. ***
 
-# In order to successfully use ParrotPeater, you will need to ensure that the settings on your radio settings match the following values:
+# In order to successfully use ParrotPeater, you will need to ensure that the settings on your radio match the following values:
     
        Repeater radio: 
     
@@ -83,15 +83,16 @@ In following these instructions, it is assumed that you have configured all of y
 2. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE running ParrotPeater.
 3. Go to your settings and make sure that the microphone port is selected as audio input device and that it is at maximum volume.
 4. Also, make sure that the headphone port is selected as audio output device and that it is at maximum volume as well.
-5. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. If you are using a mac, you should be seeing a yellow/orange microphone icon in the menu bar at all times. 
-6. Start ParrotPeater and select your computer's audio i/o devices that will be interacting with the repeater radio.
+5. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. If you are using a mac, you should be seeing a yellow/orange microphone icon in the menu bar at all times.
+6. Make sure that the 'config.py' file is in the same folder as 'ParrotPeater.py'.
+7. Start ParrotPeater by running 'ParrotPeater.py' inside your Python interpreter and select your computer's audio i/o devices that will be interacting with the repeater radio. 
    In the case of an M1 Macbook Air (2020), those devices will usually be:
    
        0 External Microphone, Core Audio (1 in, 0 out)
        1 External Headphones, Core Audio (0 in, 2 out)
    
-7. Wait a brief moment for ParrotPeater to calibrate itself.
-8. As soon as you see "Listening..." appear on the screen, you may begin communicating using your repeater.
+8. Wait a brief moment for ParrotPeater to calibrate itself.
+9. As soon as you see "Listening..." appear on the screen, you may begin communicating using your repeater.
 
 # Strategy for communicating using ParrotPeater:
     
@@ -107,6 +108,8 @@ As such, each person using a distant radio will need to be switching between the
 6. Bear in mind that there will be a significant delay before you hear a reply, as ParrotPeater cannot receive and transmit simultaneously.
 7. Once a reply is heard, repeat steps 2 through 5 to transmit again. 
 8. PRACTICE, PRACTICE, PRATICE! Switching between the two active frequencies correctly will take some getting used to, but I am sure you will become a master Parroteer in no time. ^^
+
+Feel free to experiment with different parameter values in the 'config.py' file and tweak them to your liking. The amateur radio hobby is, after all, firmly grounded in experimentation. 
 
 Cheers!
 yarov3so (VA2ZLT)
