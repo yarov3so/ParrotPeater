@@ -26,7 +26,7 @@ Recommended output volume setting on the laptop: maximum (100%)
 Recommended input volume setting on the laptop: maximum (100%)
 Recommended volume setting on the repeater radio: 1/2 turn of the volume knob (50%)
 
- * * * The following configurations are primarily suited for Baofeng UV 17 Pro HTs, but can be readily generalized to other devices with similar features. * * *
+*** The following configurations are primarily suited for Baofeng UV 17 Pro HTs, but can be readily generalized to other devices with similar features. ***
 
 # In order to successfully use ParrotPeater, you will need to ensure that the settings on your radio settings match the following values:
     
