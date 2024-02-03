@@ -106,7 +106,7 @@ As such, each person using a distant radio will need to be switching between the
 4. At this point, you should not be hearing your voice (this is the reason we turned on R-CTCS for the bottom active channel).
 5. When the green light goes out, press the blue button to switch back to the top active channel as you await a reply.
 6. Bear in mind that there will be a significant delay before you hear a reply, as ParrotPeater cannot receive and transmit simultaneously.
-7. Once a reply is heard, repeat steps 2 through 5 to transmit again. 
+7. Once a reply is heard, repeat steps 1 through 5 to transmit again. 
 8. PRACTICE, PRACTICE, PRATICE! Switching between the two active frequencies correctly will take some getting used to, but I am sure you will become a master Parroteer in no time. ^^
 
 Feel free to experiment with different parameter values in the 'config.py' file and tweak them to your liking. The amateur radio hobby is, after all, firmly grounded in experimentation. 
