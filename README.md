@@ -80,7 +80,7 @@ In following these instructions, it is assumed that you have configured all of y
 # Running ParrotPeater:
 
 1. Adjust the settings on your computer so that it stays awake during ParrotPeater's operation.
-2. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE running ParrotPeater.
+2. Turn on your radio (turn the volume knob halfway) and connect it to your computer BEFORE starting your Python IDE and running ParrotPeater.
 3. Go to your settings and make sure that the microphone port is selected as audio input device and that it is at maximum volume.
 4. Also, make sure that the headphone port is selected as audio output device and that it is at maximum volume as well.
 5. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. If you are using a mac, you should be seeing a yellow/orange microphone icon in the menu bar at all times.
