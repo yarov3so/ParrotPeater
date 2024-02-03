@@ -83,10 +83,12 @@ In following these instructions, it is assumed that you have configured all of y
 4. If you run into the problem of ParrotPeater cueing itself repeatedly even with high vox_factor/vox_mod parameters, then you should keep the Settings window open during ParrotPeater's operation, with your chosen audio input device selected. You should be seeing a yellow/orange microphone icon in the menu bar at all times. 
 5. Start ParrotPeater and select your computer's audio i/o devices that will be interacting with the repeater radio.
    In the case of an M1 Macbook Air (2020), those devices will usually be:
-         0 External Microphone, Core Audio (1 in, 0 out)
-         1 External Headphones, Core Audio (0 in, 2 out)
-6. Wait a brief moment for ParrotPeater to calibrate itself.
-7. As soon as you see "Listening..." appear on the screen, you may begin communicating using your repeater.
+   
+       0 External Microphone, Core Audio (1 in, 0 out)
+       1 External Headphones, Core Audio (0 in, 2 out)
+   
+7. Wait a brief moment for ParrotPeater to calibrate itself.
+8. As soon as you see "Listening..." appear on the screen, you may begin communicating using your repeater.
 
 # Strategy for communicating using ParrotPeater:
     
