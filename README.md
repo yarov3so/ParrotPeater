@@ -1,5 +1,6 @@
             Welcome to ParrotPeater! 
     -- your personal HAM radio companion --
+              by yarov3so (VA2ZLT)
 
 
                   (\           
@@ -100,3 +101,6 @@ As such, each person using a distant radio will need to be switching between the
 6. Bear in mind that there will be a significant delay before you hear a reply, as ParrotPeater cannot receive and transmit simultaneously.
 7. Once a reply is heard, repeat steps 2 through 5 to transmit again. 
 8. PRACTICE, PRACTICE, PRATICE! Switching between the two active frequencies correctly will take some getting used to, but I am sure you will become a master Parroteer in no time. ^^
+
+Cheers!
+yarov3so (VA2ZLT)
