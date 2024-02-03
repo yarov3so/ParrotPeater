@@ -111,5 +111,5 @@ As such, each person using a distant radio will need to be switching between the
 
 Feel free to experiment with different parameter values in the 'config.py' file and tweak them to your liking. The amateur radio hobby is, after all, firmly grounded in experimentation. 
 
-Cheers!
+Cheers!  
 yarov3so (VA2ZLT)
