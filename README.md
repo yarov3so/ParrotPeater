@@ -23,11 +23,11 @@ INSTRUCTIONS
 
 # Default configurtion values are suitable for running ParrotPeater with the following hardware and software setup:
     
-Macbook Air M1 (2020) with a Baofeng UV 17 Pro connected to the laptop's headphone jack with an APRS-K1 cable.
-Recommended Python IDE: Spyder
-Recommended output volume setting on the laptop: maximum (100%)
-Recommended input volume setting on the laptop: maximum (100%)
-Recommended volume setting on the repeater radio: 1/2 turn of the volume knob (50%)
+-Macbook Air M1 (2020) with a Baofeng UV 17 Pro connected to the laptop's headphone jack with an APRS-K1 cable.
+-Recommended Python IDE: Spyder
+-Recommended output volume setting on the laptop: maximum (100%)
+-Recommended input volume setting on the laptop: maximum (100%)
+-Recommended volume setting on the repeater radio: 1/2 turn of the volume knob (50%)
 
 MACOS USERS: you will most likely need to apply the ttcplus wrapper hotfix (by gslegendre) to your Python IDE in order to grant it access to your microphone. Please see: https://github.com/jslegendre/tccplus.
 
