@@ -19,9 +19,9 @@ You will also need an APRS cable to connect your radio to your computer's sound 
 
 QUICK DEMONSTRATION (video): https://drive.google.com/file/d/1TmtDIhJIyx5-4ljhzfINe1OYly3Yv8nu/view?usp=share_link
 
-INSTRUCTIONS 
+# INSTRUCTIONS 
 
-# Default configurtion values are suitable for running ParrotPeater with the following hardware and software setup:
+Default configurtion values are suitable for running ParrotPeater with the following hardware and software setup:
     
 Macbook Air M1 (2020) with a Baofeng UV 17 Pro connected to the laptop's headphone jack with an APRS-K1 cable  
 Recommended Python IDE: Spyder  
@@ -33,7 +33,7 @@ MACOS USERS: you will most likely need to apply the ttcplus wrapper hotfix (by g
 
 *** The following configurations are primarily suited for Baofeng UV 17 Pro HTs, but can be readily generalized to other devices with similar features. ***
 
-# In order to successfully use ParrotPeater, you will need to ensure that the settings on your radio match the following values:
+In order to successfully use ParrotPeater, you will need to ensure that the settings on your radio match the following values:
     
        Repeater radio: 
     
